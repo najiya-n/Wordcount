@@ -1,0 +1,7 @@
+C:\Najiya\c#\Wordcount\bin\Debug\Wordcount.exe.config
+C:\Najiya\c#\Wordcount\bin\Debug\Wordcount.exe
+C:\Najiya\c#\Wordcount\bin\Debug\Wordcount.pdb
+C:\Najiya\c#\Wordcount\obj\Debug\Wordcount.csproj.AssemblyReference.cache
+C:\Najiya\c#\Wordcount\obj\Debug\Wordcount.csproj.CoreCompileInputs.cache
+C:\Najiya\c#\Wordcount\obj\Debug\Wordcount.exe
+C:\Najiya\c#\Wordcount\obj\Debug\Wordcount.pdb
